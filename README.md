@@ -29,5 +29,11 @@ In this repo you will need to be able to use:
 - **63%** of the players are between the ages of 15 and 24
 - **64%** of the game's sales ($1,526.95 of $2,379.77) have come players between the ages of 15 and 24
 
-Images
+### Images
+![](Images/players_by_gender.JPG)
 
+![](Images/spending_by_gender.JPG)
+
+![](Images/players_by_age.JPG)
+
+![](Images/spending_by_age.JPG)
